@@ -4,28 +4,28 @@
   margin-top: 20px;
   padding: 0;
   box-shadow: 0px 0px 10px 0px rgba(26, 43, 35, 0.2);
-  background-color: #f5fffa;
+  background-color: #bbccf1;
   /* border: 1px solid #c9c9c9; */
 }
 
 .transaction th {
   font-size: 20px;
-  color: #0e538b;
+  color: #223c50;
   font-weight: 700;
   padding: 10px 0;
-  background-color: #20dba6;
+  background-color: #24cc24;
 }
 
 .transaction th:not(:last-child) {
-  border-right: 1px solid #4cda6b;
+  border-right: 1px solid #c9c9c9;
 }
 
 .transaction tr:nth-child(even) {
-  background-color: #5dbea4;
+  background-color: #156951;
 }
 
 .transaction tr {
   height: 56px;
-  color: #1f6296;
+  color: #3c92d3;
   font-weight: 500;
 }

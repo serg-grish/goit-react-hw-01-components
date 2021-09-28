@@ -8,11 +8,14 @@
 }
 
 .section {
+  display: flex;
+  justify-content: center;
   margin: 20px;
   /* align-items: baseline; */
 }
 
 .sectionBottom {
+  display: flex;
   justify-content: space-between;
   margin: 0 auto;
   width: 990px;

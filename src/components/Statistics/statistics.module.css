@@ -1,5 +1,6 @@
 .statistics {
   background-color: #ffffff;
+  margin: 20px;
 }
 
 .list {
@@ -22,10 +23,10 @@
 
 .title {
   padding-top: 5px;
-  color: #27291b90;
+  color: #223c5090;
 }
 
 .label,
 .percentage {
-  color: #dbe6e0;
+  color: #f3faf7;
 }

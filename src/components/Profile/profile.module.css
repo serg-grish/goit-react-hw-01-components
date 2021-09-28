@@ -11,19 +11,19 @@
 }
 
 .description {
-  background-color: #74b5d3;
+  background-color: #4eb3db;
   padding: 20px;
   font-size: 24px;
 }
 
 .name {
   font-weight: 500;
-  color: #021320;
+  color: #223c50;
 }
 
 .tag,
 .location {
-  color: #094270;
+  color: #06395f;
 }
 
 .stats {
@@ -34,7 +34,7 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  background-color: #a2e95f;
+  background-color: #a4cf2c;
 }
 
 .item {
